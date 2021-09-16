@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+/* Header Starts */
+header {
+    text-align: center;
+    background-image: url(./Images/8-82901_1920x1080-wallpaper-linear-black-highlight-blue-gradient-cobalt.jpg);
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    font-size: 50px;
+    padding: 15px 0 15px 0;
+}
+
+/* Search Form Begins */
+form {
+    margin-left: 15px;
+}
+
+form button {
+    width: 100%;
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+
+content {
+    border: 3px solid lightslategrey;
+    padding-left: 15px;
+    margin-top: 24px;
+}
+.results {
+    background-color: lightgray;
+    margin-top: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+.border {
+    border-bottom: 3px solid lightgray;
+    margin-top: 15px;
+}
